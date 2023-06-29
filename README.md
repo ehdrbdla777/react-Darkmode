@@ -8,6 +8,8 @@ yarn add styled-components react-icons
 ```
 [리액트아이콘 사이트로 이동](https://react-icons.github.io/react-icons/)
 
+[해당 웹사이트로 이동](https://stately-travesseiro-c57f3d.netlify.app/)
+
 
 ## root 폴더 내에 파일생성
 1. [.prettierrc] - 협업시 vscode설정을 통일화시켜주는 작업
