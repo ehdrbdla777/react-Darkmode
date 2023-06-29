@@ -6,7 +6,7 @@
 ```
 yarn add styled-components react-icons
 ```
-[리액트아이콘 사이트로 이동](https://bejewelled-marzipan-f7b057.netlify.app/)
+[리액트아이콘 사이트로 이동](https://react-icons.github.io/react-icons/)
 
 
 ## root 폴더 내에 파일생성
